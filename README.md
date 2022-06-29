@@ -13,6 +13,12 @@
   </a>
 </p>
 
+## This if a fork of the main flipper repository.
+
+It was created to slightly modify shared preferences plugin (Android + desktop) to support using encrypted shared preferences with flipper.
+
+-------------------------------------------------
+
 <p align="center">
   Flipper (formerly Sonar) is a platform for debugging mobile apps on iOS and Android and, recently, even JS apps in your browser or in Node.js. Visualize, inspect, and control your apps from a simple desktop interface. Use Flipper as is or extend it using the plugin API.
 </p>
