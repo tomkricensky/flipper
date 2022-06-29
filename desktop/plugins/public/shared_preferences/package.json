@@ -1,8 +1,8 @@
 {
   "$schema": "https://fbflipper.com/schemas/plugin-package/v2.json",
-  "name": "flipper-plugin-preferences",
-  "id": "Preferences",
-  "version": "0.0.0",
+  "name": "flipper-plugin-preferences-kricensky",
+  "id": "preferences-kricensky",
+  "version": "1.0.0",
   "main": "dist/bundle.js",
   "flipperBundlerEntry": "src/index.tsx",
   "license": "MIT",
@@ -15,7 +15,7 @@
   "peerDependencies": {
     "flipper-plugin": "*"
   },
-  "title": "Shared Preferences Viewer",
+  "title": "Encrypted Shared Preferences Viewer",
   "bugs": {
     "url": "https://github.com/facebook/flipper/issues"
   }
